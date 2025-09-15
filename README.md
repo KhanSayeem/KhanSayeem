@@ -1,4 +1,4 @@
-# Khan Sayeem
+# Sayeem khan
 **AI-Powered Financial Technology Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
