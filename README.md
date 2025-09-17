@@ -1,5 +1,5 @@
 # Sayeem khan
-**AI-Powered Financial Technology Developer**
+**Financial Technology Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:khansayeem03@gmail.com)
