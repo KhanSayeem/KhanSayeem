@@ -32,7 +32,7 @@
 - Enterprise security with audit trails, rate limits and compliance features
 - Saves businesses 20+ hours/week in manual financial bullshit
 
-**Tech Stack:** Python, Flask, MCP, Stripe API, Xero API, Plaid API
+**Mainly used:** Python, Flask, MCP, Stripe API, Xero API, Plaid API
 
 ### [MCPs-101](https://github.com/KhanSayeem/MCPs-101)
 **Educational foundation for Model Context Protocol development**
