@@ -40,6 +40,6 @@
 - Practical examples and implementation patterns
 
 
-khansayeem03@gmail.com  
+**if you want to reach out** khansayeem03@gmail.com  
 
 
