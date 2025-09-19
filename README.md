@@ -1,6 +1,6 @@
 # Sayeem khan
 
-**I just make shit happen** 👍
+👍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:khansayeem03@gmail.com)
@@ -86,31 +86,6 @@
 
 ---
 
-## Current Focus
-
-**Building the Future of Financial Operations**
-- Pioneering AI-native financial platforms
-- Eliminating manual workflows through intelligent automation
-- Creating enterprise-ready solutions with open-source accessibility
-- Enabling businesses to leverage AI for competitive advantage
-
-**Industry Impact:**
-- Helping companies save $50K+ annually in operational costs
-- Reducing manual financial work by 80-90%
-- Providing real-time financial insights through AI
-- Building the infrastructure for AI-powered business operations
-
----
-
-## Professional Approach
-
-**Philosophy:** Technology should solve real business problems and deliver measurable value, not just demonstrate technical capability.
-
-**Specialization:** I focus on the intersection of AI capabilities and practical business needs, particularly in financial operations where accuracy, security, and efficiency are paramount.
-
-**Open Source Commitment:** Building solutions that businesses can own, customize, and trust, with enterprise-grade features accessible to organizations of all sizes.
-
----
 
 ## Let's Connect
 
@@ -118,8 +93,3 @@
 **Collaboration:** Open to partnerships in AI-powered business automation  
 **Consulting:** Available for financial technology transformation projects
 
-**Looking for:** Companies interested in AI-powered financial automation, developers working on MCP applications, and partners in the fintech innovation space.
-
----
-
-*Building tomorrow's business operations today through AI-powered automation.*
