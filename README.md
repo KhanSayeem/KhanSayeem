@@ -1,6 +1,6 @@
 # Sayeem khan
-👍
-**I just make shit happen**
+
+**I just make shit happen** 👍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:khansayeem03@gmail.com)
