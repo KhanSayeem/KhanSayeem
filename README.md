@@ -1,6 +1,7 @@
 # Sayeem khan
 
-👍
+<img width="152" height="148" alt="image" src="https://github.com/user-attachments/assets/7627b544-2191-4eed-acb8-5292de9d6387" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:khansayeem03@gmail.com)
