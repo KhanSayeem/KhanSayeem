@@ -1,38 +1,35 @@
 # Sayeem khan
-**Financial Technology Developer**
+👍
+**I just make shit happen**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:khansayeem03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-green.svg)](https://github.com/KhanSayeem)
 
-> Building the bridge between traditional business operations and AI-powered automation, specializing in financial technology that eliminates manual workflows through natural language control.
-
 ---
 
 ## What I Build
 
-**AI-Native Financial Automation**
-- MCP (Model Context Protocol) integration for Claude Desktop
-- Natural language control of financial operations
-- Enterprise-grade security with open-source transparency
-- Real-time multi-platform financial synchronization
+**Financial Automation**
+- MCP (Model Context Protocol) integration 
+- Natural language prompt of financial operations
+- Enterprise-grade security and compliance with open-source transparency
 
 **Core Expertise:**
-- Financial API orchestration (Stripe, Xero, Plaid)
+- Financial API  (Stripe, Xero, Plaid)
 - AI workflow automation and natural language processing
-- Enterprise security implementation and compliance
-- Full-stack development with business impact focus
+- Full-stack development
 
 ---
 
 ## Featured Projects
 
 ### [Financial Command Center AI](https://github.com/KhanSayeem/Financial-Command-Center-AI)
-**AI-powered financial automation platform with Claude Desktop integration**
+**AI-powered financial automation platform**
 - Natural language control of payments, accounting, and banking
-- MCP-native architecture for seamless AI assistant integration
-- Enterprise security with audit trails and compliance features
-- Saves businesses 20+ hours/week in manual financial operations
+- MCP-native architecture as well as integrated AI assistant
+- Enterprise security with audit trails, rate limits and compliance features
+- Saves businesses 20+ hours/week in manual financial bullshit
 
 **Tech Stack:** Python, Flask, MCP, Stripe API, Xero API, Plaid API
 
