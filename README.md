@@ -1,6 +1,6 @@
 # Sayeem khan
 
-<img width="392" height="382" alt="image" src="https://github.com/user-attachments/assets/336e3098-60de-465c-b0e6-70a51baa7bc3" />
+<img width="92" height="82" alt="image" src="https://github.com/user-attachments/assets/336e3098-60de-465c-b0e6-70a51baa7bc3" />
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](in/sayeem-khan-7657732b7)
