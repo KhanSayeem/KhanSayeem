@@ -11,6 +11,3 @@
 
 
 
-**if you want to reach out** khansayeem03@gmail.com  
-
-
